@@ -1,5 +1,5 @@
 
-             #MANUAL DE INTRODUÇÃO AO FIGMA
+MANUAL DE INTRODUÇÃO AO FIGMA
 ===========================================================
 
 Este repositório contém um guia interativo e visual para
