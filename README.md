@@ -31,13 +31,16 @@ protótipos.
 -----------------------------------------------------------
 📷 CAPTURAS DE TELA DO PROTÓTIPO CRIADO
 -----------------------------------------------------------
+![Frame - 1](https://github.com/user-attachments/assets/8f154390-0f80-4213-ba6c-f90aba95e834)
+
+![Frame - 2](https://github.com/user-attachments/assets/edde0bf3-f1b4-4802-876b-f5adcab583e1)
 
 
 -----------------------------------------------------------
 🛠️ COMO USAR
 -----------------------------------------------------------
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/pedrodls/figma-prototype)
 
 2. Acesse o arquivo PDF com o manual:
    ./docs/Manual_Figma versão final.pdf
@@ -57,7 +60,7 @@ prototipagem com Figma.
 -----------------------------------------------------------
 👨‍💻 AUTORES
 -----------------------------------------------------------
-- Pedro D. L. da Silva – https://github.com/pedrodls
+- Pedro João – https://github.com/pedrodls
 
 -----------------------------------------------------------
 📄 LICENÇA
